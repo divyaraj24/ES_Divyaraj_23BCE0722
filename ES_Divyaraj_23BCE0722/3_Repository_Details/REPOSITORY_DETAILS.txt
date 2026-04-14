@@ -19,9 +19,9 @@ Package Name: ES_Divyaraj_23BCE0722
 - cc197a2 | Add main submission README and remove repository details markdown
 
 3) Date-Stamped Repository Link (to fill after push)
-- Repository URL: <PASTE_GITHUB_REPO_URL>
-- Commit URL (date-stamped): <PASTE_COMMIT_URL>
-- Branch URL: <PASTE_BRANCH_URL>
+- Repository URL: https://github.com/divyaraj24/ES_Divyaraj_23BCE0722
+- Commit URL (date-stamped): https://github.com/divyaraj24/ES_Divyaraj_23BCE0722/commit/4ee478c3d9e1361036e939486b23247d9b0d38c8
+- Branch URL: https://github.com/divyaraj24/ES_Divyaraj_23BCE0722/tree/main
 
 Note:
 Upload this package after replacing the placeholders above with actual GitHub links.
