@@ -1,0 +1,27 @@
+Repository Details (Submission Evidence)
+
+Student Name: Divyaraj
+Registration Number: 23BCE0722
+Package Name: ES_Divyaraj_23BCE0722
+
+1) Included Code
+- Code snapshot is available in: 3_Repository_Details/Code_Snapshot/
+- Training code and synthetic dataset are available in: 3_Repository_Details/Training_Assets/
+
+2) Local Date-Stamped Commit Evidence
+- 43f097f | Add signed copyright form
+- 445b6c1 | Add final paper in Word format
+- 6eaf8b3 | Add code snapshot for repository details section
+- 680386b | Replace diagrams with report screenshots including Figure 1
+- 6e7aaa1 | Add TinyML training code and generation scripts
+- 9e9d32f | Add synthetic dataset used for TinyML training
+- 5f92c0b | Swap labels for Figure 1 and Figure 2 diagrams
+- cc197a2 | Add main submission README and remove repository details markdown
+
+3) Date-Stamped Repository Link (to fill after push)
+- Repository URL: <PASTE_GITHUB_REPO_URL>
+- Commit URL (date-stamped): <PASTE_COMMIT_URL>
+- Branch URL: <PASTE_BRANCH_URL>
+
+Note:
+Upload this package after replacing the placeholders above with actual GitHub links.
